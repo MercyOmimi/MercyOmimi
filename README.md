@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**MercyOmimi/MercyOmimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mercy! 👋
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm currently building my expertise in **Python and MATLAB**
+
+### 📌 What I'm Learning:
+
+ Python & MATLAB for computational applications
+
+### 📂 My GitHub Projects
+
+🔹 **Monte Carlo Investment Simulation** – Using Monte Carlo methods to analyze investment risks with a 2-standard deviation approach in Python
+🔹 **Simple Timer** – A basic timer application implemented in Python
+
+### 🎯 Goals for 2025
+💡 Improve my coding skills through hands-on problem-solving 
+💡 Strengthen my coding and math foundations
+💡 Build and share the projects I work on!
+
+
+📢 **Let's Connect!**
+💬 Feel free to check out my repositories and follow my journey! 😊
+
 -->
