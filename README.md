@@ -3,16 +3,18 @@
 
 ## 🚀 About Me
 
-I'm currently building my expertise in **Python and MATLAB**
+I'm currently building my expertise in **Python**
 
 ### 📌 What I'm Learning:
 
- Python & MATLAB for computational applications
+ Python for computational applications
 
 ### 📂 My GitHub Projects
 
-🔹 **Monte Carlo Investment Simulation** – Using Monte Carlo methods to analyze investment risks with a 2-standard deviation approach in Python
-🔹 **Simple Timer** – A basic timer application implemented in Python
+ **Retail Inventory Tracker** – A simple tracker to monitor inventory
+ **Simple Timer** – A basic timer application implemented in Python, plan to build it into an application
+ **Monte Carlo Simulation (planning stage)**
+**Other projects being figured out as I refine my understanding of programming** 
 
 ### 🎯 Goals for 2025
 💡 Improve my coding skills through hands-on problem-solving 
